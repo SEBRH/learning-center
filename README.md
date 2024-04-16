@@ -1,6 +1,28 @@
-# AngularSem5
+# ACME LEARNING CENTER WEB APPLICATION
 
+# Summary
+Acme Learning Center Application, illustrating CRUD Behaviour and in-app navigation with Angular Material and Angular Router. 
+<br>it also uses Json as a server Fake API
+
+## Features
+
+- Material Design
+- Json Server Fake API
+- CRUD Operations
+- In-app Navigation
+
+## Dependencies 
+
+- Angular Material
+- Angular Router
+- Json Server
+- HttpClient
+- Reactive Forms
+
+## Framework
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
+
+
 
 ## Development server
 
